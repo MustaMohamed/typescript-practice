@@ -1,0 +1,16 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "typescript practice",
+  "main": "index.ts",
+  "repository": "https://github.com/MustaMohamed/typescript-practice.git",
+  "author": "Musta",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.2.3"
+  }
+}
